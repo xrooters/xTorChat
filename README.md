@@ -1,5 +1,5 @@
 # xTorChat-appstore
-https://itunes.apple.com/us/developer/dragos-bratanescu/id1217101146?mt=8
+https://itunes.apple.com/us/app/xtorchat/id1403177943?mt=8
 
 
  xTorChat is a free  messaging app that features OTR encryption over XMPP. You can connect to an existing account, create new accounts on public XMPP server “xrooters.ro” (including via Tor),  for extra security.
